@@ -1,12 +1,22 @@
-# INF99X: Sample Course
+# AZ-020: Microsoft Azure solutions for AWS developers
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
+**[AZ-020 Lab links ](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/aws/)** listed by Module.
+
+## Note on use of AZ-204 Labs in this course
+
+This course, AZ-020: Microsoft Azure solutions for AWS developers, is a subset of the AZ-204 course materials, adapted to fit a 3 day course for experienced AWS developers.
+
+AZ-020 labs are a subset of the AZ-204 labs and are taken directly from the [AZ-204 lab repository](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure).
+
+The mapping of AZ-020 course module numbers to the AZ-204 lab numbers is found in the `\instructions\labs` folder readme file [here](\\instructions\\labs\\readme.md)
+
+- **[Download Latest Student Handbook and AllFiles Content](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/releases)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository (use AZ-204 repositiory)
 
 ## What are we doing?
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+- To support this course, we will need to make frequent updates to the course source content at [https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
 
 - We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
 
@@ -18,13 +28,9 @@
 
 - It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
 
-## What about changes to the student handbook?
-
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
-
 ## How do I contribute?
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- Any MCT can submit a pull request to the code or content in the [https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
 
 - You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
 
