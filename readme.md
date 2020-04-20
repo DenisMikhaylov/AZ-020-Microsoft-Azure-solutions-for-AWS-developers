@@ -8,7 +8,7 @@ This course, AZ-020: Microsoft Azure solutions for AWS developers, is a subset o
 
 AZ-020 labs are a subset of the AZ-204 labs and are taken directly from the [AZ-204 lab repository](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure).
 
-The mapping of AZ-020 course module numbers to the AZ-204 lab numbers is found in the `../Instructions/labs` folder readme file [here](../Instructions/Labs/readme.md)
+The **[mapping](https://github.com/MicrosoftLearning/AZ-020-Microsoft-Azure-solutions-for-AWS-developers/blob/master/Instructions/Labs/readme.md)** of AZ-020 course module numbers to the AZ-204 lab numbers is found in the `../Instructions/labs` folder readme file.
 
 ## What are we doing?
 
