@@ -1,12 +1,10 @@
-# AZ-020: Microsoft Azure solutions for AWS developers
-
-## Note on use of AZ-204 Labs in this course
+# AZ-204 lab mapping
 
 This course, AZ-020: Microsoft Azure solutions for AWS developers, is a subset of the AZ-204 course materials that have been adapted to fit a 3 day course for experienced AWS developers.
 
 AZ-020 labs are a subset of the AZ-204 labs and are taken directly from the [AZ-204 lab repository](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure).
 
-## AZ-020 module # mapping to AZ-204 labs
+## AZ-020 module mapping to AZ-204 labs
 
 The subset of 10 AZ-204 labs used in this course are mapped per module as follows
 
