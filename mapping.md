@@ -22,4 +22,4 @@ The subset of 10 AZ-204 labs used in this course are mapped per module as follow
 | 10* | 11 | Asynchronous Messaging |
 | 11* | 12 | Azure Monitor |
 
-> **\*** *AZ-020 Module number is different than AZ-204 lab number.*
+**\*** *AZ-020 Module number is different than AZ-204 lab number.*
