@@ -12,8 +12,8 @@ Hyperlinks to each of the lab exercises and demos are listed below.
 
 | Module | Lab |
 | --- | --- |
-| Module 01: Creating Azure App Service Web Apps | [[Lab: Building a web application on Azure App Service](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_01_lab.html) |
-| Module 01: Creating Azure App Service Web Apps | [[Lab: Building a web application on Azure App Service - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_01_lab_ak.html) |
+| Module 01: Creating Azure App Service Web Apps | [Lab: Building a web application on Azure App Service](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_01_lab.html) |
+| Module 01: Creating Azure App Service Web Apps | [Lab: Building a web application on Azure App Service - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_01_lab_ak.html) |
 | Module 02: Implement Azure Functions | [Lab: Implement task processing logic by using Azure Functions](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_02_lab.html) |
 | Module 02: Implement Azure Functions | [Lab: Implement task processing logic by using Azure Functions - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_02_lab_ak.html) |
 | Module 03: Develop solutions that use blob storage | [Lab: Retrieving Azure Storage resources and metadata by using the Azure Storage SDK for .NET](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_03_lab.html) |
