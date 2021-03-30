@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-# Content Directory
+## Content Directory
 
 Hyperlinks to each of the lab exercises and demos are listed below.
 
@@ -28,11 +28,11 @@ Hyperlinks to each of the lab exercises and demos are listed below.
 | Module 07: Implement secure cloud solutions | [Lab: Access resource secrets more securely across services - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_07_lab_ak.html) |
 | Module 08: Implement API Management | [Lab: Creating a multi-tier API by using Azure API Management](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_08_lab.html) |
 | Module 08: Implement API Management | [Lab: Creating a multi-tier API by using Azure API Management - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_08_lab_ak.html) |
-| Module 09: Develop event-based solutions | [Lab: Publishing and subscribing to Event Grid events](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_10_lab.html) |
-| Module 09: Develop event-based solutions | [Lab: Publishing and subscribing to Event Grid events - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_10_lab_ak.html) |
-| Module 10: Develop message-based solutions | [Lab: Asynchronously processing messages by using Azure Queue storage](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_11_lab.html) |
-| Module 10: Develop message-based solutions | [Lab: Asynchronously processing messages by using Azure Queue storage - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_11_lab_ak.html) |
-| Module 11: Monitor and optimize Azure solutions | [Lab: Monitoring services that are deployed to Azure](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_12_lab.html) |
-| Module 11: Monitor and optimize Azure solutions | [Lab: Monitoring services that are deployed to Azure - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_12_lab_ak.html) |
+| Module 09: Develop event-based solutions | [Lab: Publishing and subscribing to Event Grid events](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_09_lab.html) |
+| Module 09: Develop event-based solutions | [Lab: Publishing and subscribing to Event Grid events - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_09_lab_ak.html) |
+| Module 10: Develop message-based solutions | [Lab: Asynchronously processing messages by using Azure Queue storage](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_10_lab.html) |
+| Module 10: Develop message-based solutions | [Lab: Asynchronously processing messages by using Azure Queue storage - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_10_lab_ak.html) |
+| Module 11: Monitor and optimize Azure solutions | [Lab: Monitoring services that are deployed to Azure](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_11_lab.html) |
+| Module 11: Monitor and optimize Azure solutions | [Lab: Monitoring services that are deployed to Azure - Answer Key](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_11_lab_ak.html) |
 
 > **Note**: Visit the [mapping](mapping.md) page to review the mapping from AZ-204 labs to AZ-020 labs.

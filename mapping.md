@@ -6,8 +6,6 @@ AZ-020 labs are a subset of the AZ-204 labs and are taken directly from the [AZ-
 
 > Note: There is no lab for AZ-020 Module 5. See course content for demonstrations.
 
-> Note: Topics for Modules 5, 9, 10, 11 in AZ-020 do not align with with the same numbered Modules in AZ-204.
-
 ## AZ-020 module mapping to AZ-204 labs
 
 The subset of 10 AZ-204 labs used in this course are mapped per module as follows
@@ -22,8 +20,6 @@ The subset of 10 AZ-204 labs used in this course are mapped per module as follow
 | 6 | 6 | Authentication and Identity |
 | 7 | 7 | Cloud Service\[s\] Security |
 | 8 | 8 | API Management |
-| 9* | 10 | Event-Based Messaging |
-| 10* | 11 | Asynchronous Messaging |
-| 11* | 12 | Azure Monitor |
-
-**\*** *AZ-020 Module number is different than AZ-204 lab number.*
+| 9 | 9 | Event-Based Messaging |
+| 10 | 10 | Asynchronous Messaging |
+| 11 | 11 | Azure Monitor |
